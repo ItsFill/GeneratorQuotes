@@ -1,0 +1,50 @@
+## ==========================================
+## Build and Compilation Outputs (C# / .NET)
+## ==========================================
+[Bb]in/
+[Ob]j/
+out/
+[L-l]og/
+[L-l]ogs/
+
+## User-specific files and developer overrides
+*.user
+*.userosscache
+*.sln.docstates
+
+## ==========================================
+## JetBrains Rider / ReSharper specific
+## ==========================================
+# Папка настроек Rider и кэша
+.idea/
+*.idea/
+
+# Пользовательские настройки Rider (папка _ReSharper)
+*_ReSharper*/
+*.dotCover
+
+## ==========================================
+## Visual Studio / General IDE
+## ==========================================
+.vs/
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.sublime-project
+
+## ==========================================
+## Operating System files
+## ==========================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+[Nn]et[Cc]ache/
